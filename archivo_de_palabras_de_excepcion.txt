@@ -1,0 +1,3 @@
+el, la, lo, los, las, un, una, unos, unas, de, es, mi, a, o, u, y, cero, uno, dos, tres, cuatro, 
+ñ, à, é, ó,
+cinco, seis, siete, ocho, nueve, diez, c++, cien, '\0', , ,
