@@ -1,5 +1,3 @@
-# C++ Projects
-
 Inverted Index in C++
 
 This project implements a C++ program that generates an inverted index from a text file, excluding predefined exception words provided in a separate file. The main features include:
